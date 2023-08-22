@@ -4,15 +4,11 @@ Hi, in this repository, I have worked on Customer Churn Prediction, a Machine Le
 Customer Churn Prediction: Customers churn out due to a lot of reasons like lack of usage, poor service, better price, etc.. In this model, I have tried to predict the churn rate pf customers.
 
 
-The project dataset can be downloaded from the link: https://www.kaggle.com/datasets/mnassrib/telecom-churn-datasets
-
-
 Machine Learning concept used: Random Forest Classifier
 
 
 
-The project dataset can be downloaded from the link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
-
+The project dataset can be downloaded from the link: https://www.kaggle.com/datasets/mnassrib/telecom-churn-datasets
 
 
 The project is entirely compiled and run in Jupyter Notebook.
